@@ -1,0 +1,1 @@
+python3 newracam.py -n udp localhost 13579 -c jpeg -hp -q 20 -f 10 -w 640 -h 320
